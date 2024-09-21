@@ -15,6 +15,12 @@ A simple Ticket Management System API built with Node.js and MongoDB that allows
 - Node.js installed on your machine
 - MongoDB installed and running locally or accessible via a cloud database
 - Nodemon installed on your machine to using running server
+  
+## Setup Instructions
+1. Clone the repository
+2. Run `npm install` to install dependencies.
+3. Create a `.env` file with the following:
+4. 4. Run `node index.js or npm run dev ` to start the server.
 
 ## Project Structure
 
@@ -28,7 +34,7 @@ A simple Ticket Management System API built with Node.js and MongoDB that allows
 │   ├── ticketRoutes.js
 ├── .env
 └── README.md
-
+## API Documentation
 ## Ticket Routes
 - POST /api/tickets/createTickets - (Create a new ticket)
 - GET /api/tickets//getTickets -    (Get all tickets)
@@ -39,5 +45,6 @@ A simple Ticket Management System API built with Node.js and MongoDB that allows
 ## run project cmd
  - node index.js
  - npm run dev
+
 
  
