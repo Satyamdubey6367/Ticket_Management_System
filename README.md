@@ -32,7 +32,7 @@ A simple Ticket Management System API built with Node.js and MongoDB that allows
 ## Ticket Routes
 - POST /api/tickets/createTickets - (Create a new ticket)
 - GET /api/tickets//getTickets -    (Get all tickets)
-- GET /api/tickets/getTicketsById/   (get ticket Id )
+- GET /api/tickets/getTicketsById/   (get ticket ID)
 - PUT /api/tickets/updateTickets/     (update tickets )
 - DELETE /api/tickets/deleteTickets/   (delete tickets)
 
