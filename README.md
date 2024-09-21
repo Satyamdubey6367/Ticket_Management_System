@@ -20,7 +20,7 @@ A simple Ticket Management System API built with Node.js and MongoDB that allows
 1. Clone the repository
 2. Run `npm install` to install dependencies.
 3. Create a `.env` file with the following:
-4. 4. Run `node index.js or npm run dev ` to start the server.
+4.  Run `node index.js or npm run dev ` to start the server.
 
 ## Project Structure
 
